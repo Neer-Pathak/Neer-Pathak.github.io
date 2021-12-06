@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# Hello I am Neer Pathak an aspiring Datascience Engineer.
 
-You can use the [editor on GitHub](https://github.com/Neer-Pathak/Neer-Pathak.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### What am I doing?
+- I am final year Engineering student. In a few months I will be passing out
+- Learning about statistics
+- Deep Learning and Machine Learning
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I have done a **Google Data Analyst** course which you can verify here - [Link](https://www.coursera.org/account/accomplishments/professional-cert/EVWTD7S8FT2W)
 
-### Markdown
+I have some other certificates to _showcase_ my skills on digital marketing. So that when people ask me about it I can say yes I know about it. Following are the certificates on Digital Marketing.
+1. Google Ads Display Certification [Verify](https://skillshop.exceedlms.com/student/award/gKrFbUeijIilzez0hLEELYFy)
+2. Google Ads Search Certification [Verify](https://skillshop.exceedlms.com/student/award/B9pBrhIE6zzq5Zg6MORV8Mmz)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
+Apart from my professional life, I like to study trends ranging from gaming to latest smartphones.
+You can ask me anything about nutrition and fitness. Not a day goes by when I have not worked out.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Neer-Pathak/Neer-Pathak.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+```
+## Get in Touch
+[My linkedin](https://www.linkedin.com/in/neer-pathak/)
