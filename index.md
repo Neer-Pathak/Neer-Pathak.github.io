@@ -11,9 +11,10 @@ I have some other certificates to _showcase_ my skills on digital marketing. So 
 1. Google Ads Display Certification [Verify](https://skillshop.exceedlms.com/student/award/gKrFbUeijIilzez0hLEELYFy)
 2. Google Ads Search Certification [Verify](https://skillshop.exceedlms.com/student/award/B9pBrhIE6zzq5Zg6MORV8Mmz)
 
-
-
-
+# Have a look at my ML Work here 
+1. [Regressor_models](https://github.com/Neer-Pathak/Neer-Pathak.github.io/blob/main/Regressor_models.ipynb)
+2. [Dealing_with_null_values](https://github.com/Neer-Pathak/Neer-Pathak.github.io/blob/main/Dealing_with_null_values.ipynb)
+3. [Dealing with categorical variables](https://github.com/Neer-Pathak/Neer-Pathak.github.io/blob/main/Dealing_with_categoricals.ipynb)
 ```
 Apart from my professional life, I like to study trends ranging from gaming to latest smartphones.
 You can ask me anything about nutrition and fitness. Not a day goes by when I have not worked out.
