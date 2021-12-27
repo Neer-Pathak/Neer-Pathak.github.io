@@ -3,7 +3,8 @@
 ### What am I doing?
 - I am final year Engineering student. In a few months I will be passing out
 - Learning about statistics
-- Deep Learning and Machine Learning
+- Machine Learning
+- Buisness Analysis
 
 I have done a **Google Data Analyst** course which you can verify here - [Link](https://www.coursera.org/account/accomplishments/professional-cert/EVWTD7S8FT2W)
 
