@@ -16,7 +16,7 @@ I have some other certificates to _showcase_ my skills on digital marketing. So 
 1. [Regressor_models](https://github.com/Neer-Pathak/Neer-Pathak.github.io/blob/main/Regressor_models.ipynb)
 2. [Dealing_with_null_values](https://github.com/Neer-Pathak/Neer-Pathak.github.io/blob/main/Dealing_with_null_values.ipynb)
 3. [Dealing with categorical variables](https://github.com/Neer-Pathak/Neer-Pathak.github.io/blob/main/Dealing_with_categoricals.ipynb)
-4. [Data Anlytics in Turbine Failure] (https://github.com/Neer-Pathak/Neer-Pathak.github.io/blob/main/Data%20Analytics%20in%20Turbine%20Failure%20.ipynb)
+4. [Data Anlytics in Turbine Failure](https://github.com/Neer-Pathak/Neer-Pathak.github.io/blob/main/Data%20Analytics%20in%20Turbine%20Failure%20.ipynb)
 
 
 ```
