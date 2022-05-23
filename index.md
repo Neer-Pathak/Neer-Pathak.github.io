@@ -1,19 +1,22 @@
 # Hello I am Neer Pathak an Aspiring *Full Stack Developer.*
 
 ### What am I doing?
-- I am final year Engineering student. In a few months I will be passing out.
+- I am final year Engineering student. In June 2022 I will be passing out.
 - Learning about MERN STACK (Mongodb, Express, React, NodeJs).
 
-## My Small React Web App Here - [Text Utility](https://neer-pathak.github.io/react-app/) 
+## React Web App Project 1 - [Text Utility](https://neer-pathak.github.io/react-app/) 
+## React Web App Project 2 - [Budget-Tracking-App](https://neer-pathak.github.io/react-budget-app/)
 
 
 
-I have done a [Google Data Analyst](https://www.coursera.org/account/accomplishments/professional-cert/EVWTD7S8FT2W) course as I had data science subject in my Final Year.
+### Data Science Certificate - [Google Data Analyst](https://www.coursera.org/account/accomplishments/professional-cert/EVWTD7S8FT2W)
+I had Data Analysis Subject in my Final Year.
 
-Just wanted to know the hype regarding digital marketing. I have a habit of learning new things.
-1. [Google Ads Display Certification](https://skillshop.exceedlms.com/student/award/gKrFbUeijIilzez0hLEELYFy) 2. [Google Ads Search Certification](https://skillshop.exceedlms.com/student/award/B9pBrhIE6zzq5Zg6MORV8Mmz)
+I have a habit of learning new things. Digital Marketing Certificates below -
+1. [Google Ads Display Certification](https://skillshop.exceedlms.com/student/award/gKrFbUeijIilzez0hLEELYFy) 
+2. [Google Ads Search Certification](https://skillshop.exceedlms.com/student/award/B9pBrhIE6zzq5Zg6MORV8Mmz)
 
-#### My ML Work here reagarding college activity
+#### My Machine Learning Work here reagarding college activity
 1. [Regressor_models](https://github.com/Neer-Pathak/Neer-Pathak.github.io/blob/main/Regressor_models.ipynb)
 2. [Dealing_with_null_values](https://github.com/Neer-Pathak/Neer-Pathak.github.io/blob/main/Dealing_with_null_values.ipynb)
 3. [Dealing with categorical variables](https://github.com/Neer-Pathak/Neer-Pathak.github.io/blob/main/Dealing_with_categoricals.ipynb)
@@ -22,10 +25,10 @@ Just wanted to know the hype regarding digital marketing. I have a habit of lear
 Apart from my WEB DEVELOPMENT passion, I like to study greek mythology, latest technology, nutrition and fitness.
 Not a day goes by when I have not worked out.
 
-#### Soft skills-
-1. Outstanding communication skills.
-2. Humble and energetic.
-3. Honest and hard working.
+## Soft skills-
+1. Outstanding Communication Skills.
+2. Fast Learner
+3. Practical thinking
 
 #### Languages
 Javascript, Python, Html, Css, Java
