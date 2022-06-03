@@ -1,4 +1,4 @@
-# Hello I am Neer Pathak an Aspiring *Full Stack Developer.*
+# Hello I am Neer Pathak. I am a *Forever Learner*
 
 ### What am I doing?
 - I am final year Engineering student. In June 2022 I will be passing out.
