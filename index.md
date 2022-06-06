@@ -5,8 +5,9 @@
 - Learning about MERN STACK.
 - Learning about Data Analysis and Data Science.
 
-### React Web App Project 1 - [Text Utility](https://neer-pathak.github.io/react-app/) 
-### React Web App Project 2 - [Budget-Tracking-App](https://neer-pathak.github.io/react-budget-app/)
+### React Web App Projects - 
+- [Text Utility](https://neer-pathak.github.io/react-app/) 
+- [Budget-Tracking-App](https://neer-pathak.github.io/react-budget-app/)
 
 
 
