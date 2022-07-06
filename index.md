@@ -1,9 +1,11 @@
-# Hello I am Neer Pathak. I am a *Forever Learner*
+# Hello I am Neer Pathak. I am a Fast Learner.
 
 ### What am I doing?
-- I am final year Engineering student. In June 2022 I will be passing out.
+- I am an Engineer graduate (2022 Batch passed out)
+- Learning about OOPS and Data Structures.
 - Learning about MERN STACK.
-- Learning about Data Analysis and Data Science.
+- Trying Hackerrank problems.
+
 
 ### React Web App Projects - 
 - [Text Utility](https://neer-pathak.github.io/react-app/) 
