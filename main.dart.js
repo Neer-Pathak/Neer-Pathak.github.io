@@ -84758,7 +84758,7 @@ m=A.avd(h,h,B.i,h,h,h,2,h,h,h,h,h,h,h,new A.c0(A.fT(12),B.o),h,h,h,h)
 l=t.p
 n=A.ey(A.b([o,B.hN,A.dh(A.aqL(!1,A.co("LinkedIn",h,h,h,A.e0(h,h,B.f8,h,h,h,h,h,h,h,h,e?16:22,h,h,B.bZ,h,h,!0,h,h,h,h,h,h,h,h),h),h,h,B.dY,h,h,h,h,new A.ae9(b),h,m),48,n)],l),B.H,B.k4,B.A)
 o=A.co("About Me",h,h,h,A.e0(h,h,B.f8,h,B.e,h,h,h,h,h,h,e?16:22,h,h,B.bZ,h,h,!0,h,h,h,h,h,h,h,h),h)
-m=A.co("\ud83d\udca1 Hover over bars on desktop or tap them on mobile to explore.",h,h,h,A.e0(h,h,B.cl,h,B.e,h,h,h,h,h,h,16,h,h,B.V,h,h,!0,h,0.5,h,h,h,h,h,h),B.aZ)
+m=A.co("\ud83d\udca1 Dive into the data! Hover or tap the bars for a fun, visual way to explore.",h,h,h,A.e0(h,h,B.cl,h,B.e,h,h,h,h,h,h,16,h,h,B.V,h,h,!0,h,0.5,h,h,h,h,h,h),B.aZ)
 f=A.bm(a,B.bd,f).w
 k=B.b.zc(b.at,new A.aea())
 j=A.au4(h,!0,h,h,h,new A.aeb(b),h,A.au5(new A.aec(),new A.aed(b,e),0,B.ap))
@@ -84831,7 +84831,7 @@ switch(a){case 0:s="Streamlined billing flow based on client feedback and discus
 break
 case 1:s="Co-built an IoT dashboard with hardware and product teams."
 break
-case 2:s="Migrated to AWS EC2 for better uptime and deployment."
+case 2:s="Implemented containerized deployments using AWS ECS with auto-scaling"
 break
 case 3:s="Held weekly check-ins with stakeholders to stay aligned."
 break
